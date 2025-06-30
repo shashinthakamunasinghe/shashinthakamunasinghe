@@ -1,6 +1,6 @@
 <h1>Hey👋, I'm Shashin</h1>
 
-<h4>I am an enthusiastic Information and Communication Technology Undergraduate student at the Uva Wellassa University of Sri Lanka | Passionate about building impactful web applications</h4>
+<h4>I am an enthusiastic Information and Communication Technology Undergraduate student at the Uva Wellassa University of Sri Lanka. Passionate about building impactful web applications</h4>
 
 ---
 
