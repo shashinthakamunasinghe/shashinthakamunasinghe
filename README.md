@@ -3,8 +3,6 @@
 
 ---
 
-- 🔭 I’m currently working on: [**EcoCycle Hub – Smart Waste Management & Recycling App**](https://github.com/shashinthakamunasinghe/eco-cycle-hub)
-- 🌱 Learning: Advanced **Firebase**, **Framer Motion**, and **Real-Time Web Apps**
 - 👨‍💻 All of my projects are available at [github.com/shashinthakamunasinghe](https://github.com/shashinthakamunasinghe)
 - 📫 Reach me at: **nipunshashinthaka@gmail.com**
 - 💼 LinkedIn: [Shashinthaka Munasinghe](https://www.linkedin.com/in/shashinthaka-munasinghe-2b366a366/)
@@ -27,16 +25,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-#### ♻️ [EcoCycle Hub](https://github.com/shashinthakamunasinghe/eco-cycle-hub)
-> A smart waste management and recycling web app featuring real-time tracking, multi-role dashboards, Stripe payments, Firebase integration, and modern UI with Next.js & Tailwind.
-
-#### 🍽️ [BISTRO CAFE AND DELIVERIES](https://github.com/shashinthakamunasinghe/BISTRO-CAFE-AND-DELIVERIES)
-> A restaurant management system for orders, tables, menus, and deliveries. Built using modern web tools with a focus on clean UI and functional dashboards.
 
 ---
 
