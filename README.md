@@ -1,16 +1,91 @@
-<h1>Hey👋, I'm Shashin</h1>
+<h1>Hello👋, I'm Shashin</h1>
 
-<h4>I am an enthusiastic Information and Communication Technology Undergraduate student at the Uva Wellassa University of Sri Lanka. Passionate about building impactful web applications</h4>
+> <b>I am an enthusiastic Information and Communication Technology Undergraduate student at the Uva Wellassa University of Sri Lanka. Passionate about building impactful web applications</b>
 
 ---
 
-### Tech Stack & Tools 🚀 
-<br>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,html,css,javascript,typescript,php,java,python,mysql,firebase,react,tailwind,nextjs,nodejs&perline=14" />
-  </a>
-</p>
+## My Skill Set and Tech Stack: 
+
+> Tools and technologies that I have worked with and am interested in:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" alt="icon"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon"/>
+      <br>Next Js
+    </td>
+    <td align="center" width="96">
+       <img src="https://skillicons.dev/icons?i=nodejs" alt="icon"/>
+      <br>Node
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="icon"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=typescript" alt="icon"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="icon"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" alt="icon"/>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="icon"/>
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" alt="icon"/>
+      <br>C
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon"/>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon"/>
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon"/>
+      <br>Bootstrap
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon"/>
+      <br>Firebase
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon"/>
+      <br>Azure
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=git" alt="icon"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" alt="icon"/>
+      <br>Github
+    </td>
+  </tr>
+</table>
 
 ##
 
