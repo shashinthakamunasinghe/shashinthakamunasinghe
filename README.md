@@ -15,6 +15,10 @@
       <br>Java
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon"/>
+      <br>SpringBoot
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="icon"/>
       <br>React
     </td>
@@ -39,12 +43,20 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="icon"/>
+      <br>.NET
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" alt="icon"/>
       <br>PHP
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" alt="icon"/>
       <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon"/>
+      <br>Linux
     </td>
   </tr>
   <tr>
@@ -64,13 +76,21 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon"/>
       <br>Bootstrap
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" alt="icon"/>
       <br>MySQL
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon"/>
+      <br>Postgres
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" alt="icon"/>
       <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" alt="icon"/>
+      <br>Docker
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=azure" alt="icon"/>
@@ -83,6 +103,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" alt="icon"/>
       <br>Github
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" alt="icon"/>
+      <br>Postman
     </td>
   </tr>
 </table>
