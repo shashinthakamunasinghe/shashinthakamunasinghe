@@ -57,10 +57,6 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" alt="icon"/>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" alt="icon"/>
       <br>C
     </td>
@@ -75,6 +71,10 @@
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon"/>
       <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon"/>
+      <br>Linux
     </td>
   </tr>
   <tr>
