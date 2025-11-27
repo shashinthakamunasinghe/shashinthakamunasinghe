@@ -42,6 +42,8 @@
         <img src="https://skillicons.dev/icons?i=tailwind" alt="icon"/>
       <br>Tailwind
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" alt="icon"/>
       <br>.NET
@@ -58,8 +60,6 @@
       <img src="https://skillicons.dev/icons?i=linux" alt="icon"/>
       <br>Linux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" alt="icon"/>
       <br>C
@@ -76,6 +76,8 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon"/>
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" alt="icon"/>
       <br>MySQL
