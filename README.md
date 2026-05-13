@@ -113,10 +113,12 @@
   </tr>
 </table>
 
-##
 
-- <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="18" height="18"/> Reach me at: **nipunshashinthaka@gmail.com**
+## Connect With Me
+
+- <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="20" height="20"/> Reach me at: **nipunshashinthaka@gmail.com**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="18" height="18"/> LinkedIn: [Shashinthaka Munasinghe](https://www.linkedin.com/in/shashinthaka-munasinghe-2b366a366/)
+- 🌐 Portfolio Website: [shashinthakamunasinghe.me](https://www.shashinthakamunasinghe.me)
 
 ##
 
